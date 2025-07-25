@@ -1,0 +1,176 @@
+🛠 Snapchat Username Tool
+This tool helps you:
+
+Generate random Snapchat usernames (4 to 6 letters)
+
+Check if usernames are available on Snapchat
+
+Save available and taken usernames to separate files
+
+It works on any machine that has Python installed (Windows, macOS, Linux).
+
+✅ Features
+Generates thousands of usernames
+
+Checks availability via the Snapchat public profile link
+
+Saves results to:
+
+available.txt — available usernames
+
+no_found.txt — taken usernames
+
+Opens a Snapchat link once for tool promotion
+
+Clean, colored terminal output
+
+📦 Requirements
+Python 3.x
+
+Internet connection
+
+📥 Installation & Setup
+Download the script file:
+Save the code into a file called snapchat_tool.py.
+
+Install required Python packages:
+Open terminal (or Command Prompt) and run:
+
+bash
+Copy
+Edit
+pip install requests
+(Optional) Make sure Python is installed:
+
+bash
+Copy
+Edit
+python --version
+▶️ How to Run
+Run the tool using:
+
+bash
+Copy
+Edit
+python snapchat_tool.py
+You will see a menu like:
+
+pgsql
+Copy
+Edit
+--- Snapchat Username Tool ---
+1. Check usernames from file
+2. Generate usernames (4/5/6 letters)
+3. Exit
+Option 1: Check Usernames from File
+Create a file named username.txt and add one username per line.
+
+Choose option 1 to check which usernames are available or taken.
+
+Results will be saved to available.txt and no_found.txt.
+
+Option 2: Generate Usernames
+Enter how many usernames you want for 4, 5, or 6 letters.
+
+It will generate and save them to username.txt automatically.
+
+Then, you can run option 1 to check availability.
+
+💻 Compatibility
+✅ Works on:
+
+Windows
+
+macOS
+
+Linux
+
+Any system where Python 3 is installed
+🛠 أداة أسماء مستخدمي سناب شات
+هذه الأداة تساعدك على:
+
+توليد أسماء مستخدمين عشوائية (من 4 إلى 6 أحرف)
+
+التحقق مما إذا كانت الأسماء متاحة على سناب شات
+
+حفظ النتائج في ملفات:
+
+available.txt — الأسماء المتاحة
+
+no_found.txt — الأسماء المستخدمة
+
+تعمل هذه الأداة على أي جهاز يحتوي على بايثون (Python) سواء كان ويندوز أو ماك أو لينكس.
+
+✅ المميزات
+توليد آلاف الأسماء بشكل تلقائي
+
+التحقق من التوفر باستخدام رابط الملف الشخصي على سناب شات
+
+حفظ النتائج تلقائيًا
+
+فتح رابط سناب شات لمرة واحدة فقط (للدعم)
+
+عرض النتائج بالألوان في الطرفية (الترمينال)
+
+📦 المتطلبات
+Python 3.x
+
+اتصال بالإنترنت
+
+📥 طريقة التثبيت والإعداد
+حفظ الكود:
+انسخ الكود إلى ملف واحفظه باسم snapchat_tool.py
+
+تثبيت الحزم المطلوبة:
+افتح الطرفية (Terminal أو CMD) واكتب:
+
+bash
+Copy
+Edit
+pip install requests
+(اختياري) تأكد من تثبيت بايثون:
+
+bash
+Copy
+Edit
+python --version
+▶️ كيفية التشغيل
+لتشغيل الأداة:
+
+bash
+Copy
+Edit
+python snapchat_tool.py
+ستظهر لك القائمة التالية:
+
+markdown
+Copy
+Edit
+--- Snapchat Username Tool ---
+1. التحقق من أسماء مستخدمين من ملف
+2. توليد أسماء مستخدمين (4/5/6 أحرف)
+3. خروج
+الخيار 1: التحقق من أسماء من ملف
+أنشئ ملفًا باسم username.txt وضع فيه أسماء المستخدمين (كل اسم في سطر).
+
+اختر الخيار 1 للتحقق من توفر الأسماء.
+
+سيتم حفظ النتائج في available.txt و no_found.txt.
+
+الخيار 2: توليد أسماء مستخدمين
+أدخل عدد الأسماء التي تريد توليدها لكل من 4 أو 5 أو 6 أحرف.
+
+سيتم حفظ الأسماء تلقائيًا في ملف username.txt.
+
+يمكنك بعد ذلك تشغيل الخيار 1 للتحقق من توفرها.
+
+💻 التوافق
+✅ تعمل الأداة على:
+
+Windows (ويندوز)
+
+macOS (ماك)
+
+Linux (لينكس)
+
+أي جهاز يحتوي على Python 3
